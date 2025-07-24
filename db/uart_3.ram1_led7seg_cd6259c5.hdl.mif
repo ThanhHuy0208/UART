@@ -1,0 +1,15 @@
+-- begin_signature
+-- led7seg
+-- end_signature
+WIDTH=8;
+DEPTH=4;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	3 :	11110001;
+	2 :	11110010;
+	1 :	11110100;
+	0 :	11111000;
+END;
