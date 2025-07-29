@@ -4,3 +4,4 @@ db/* linguist-documentation
 incremental_db/* linguist-documentation
 output_files/* linguist-documentation
 synthesis/* linguist-documentation
+docs/* linguist-documentation
