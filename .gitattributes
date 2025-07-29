@@ -8,7 +8,9 @@ synthesis/* linguist-documentation
 docs/* linguist-documentation
 report/* linguist-documentation
 log/* linguist-documentation
-*.html linguist-documentation
 uart_3.qpf/* linguist-documentation
 uart_3.qsf/* linguist-documentation
 uart_3.qws/* linguist-documentation
+db/uart_3.lpc.html/* linguist-documentation
+db/ip/sld9cba3cc9/alt_sld_fab__report.html/* linguist-documentation
+*.html linguist-documentation
