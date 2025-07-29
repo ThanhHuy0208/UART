@@ -1,0 +1,2 @@
+*.sv linguist-language=SystemVerilog
+html_output/* linguist-documentation
