@@ -1,7 +1,14 @@
 *.sv linguist-language=SystemVerilog
+
 html_output/* linguist-documentation
 db/* linguist-documentation
 incremental_db/* linguist-documentation
 output_files/* linguist-documentation
 synthesis/* linguist-documentation
 docs/* linguist-documentation
+report/* linguist-documentation
+log/* linguist-documentation
+*.html linguist-documentation
+uart_3.qpf/* linguist-documentation
+uart_3.qsf/* linguist-documentation
+uart_3.qws/* linguist-documentation
